@@ -1,0 +1,164 @@
+INFO       2026-01-11 19:59:39 root                           logger                         init_logger                          23  : Init logger
+DEBUG      2026-01-11 19:59:39 settings.config                config                         print_config_job                     49  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 19:59:39 settings.config                config                         print_config_job                     49  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 19:59:39 settings.config                config                         print_config_job                     49  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 19:59:39 settings.config                config                         print_config_job                     49  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 19:59:39 settings.config                config                         print_config_job                     49  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 19:59:39 __main__                       main                           main                                 13  : Hello from adventure!
+INFO       2026-01-11 19:59:54 root                           logger                         init_logger                          23  : Init logger
+DEBUG      2026-01-11 19:59:54 settings.config                config                         print_config_job                     49  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 19:59:54 settings.config                config                         print_config_job                     49  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 19:59:54 settings.config                config                         print_config_job                     49  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 19:59:54 settings.config                config                         print_config_job                     49  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 19:59:54 settings.config                config                         print_config_job                     49  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 19:59:54 __main__                       main                           main                                 13  : Hello from adventure!
+INFO       2026-01-11 20:00:58 root                           logger                         init_logger                          23  : Init logger
+DEBUG      2026-01-11 20:00:58 settings.config                config                         print_config_job                     49  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:00:58 settings.config                config                         print_config_job                     49  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:00:58 settings.config                config                         print_config_job                     49  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:00:58 settings.config                config                         print_config_job                     49  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:00:58 settings.config                config                         print_config_job                     49  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:00:58 __main__                       main                           main                                 17  : Hello from adventure!
+INFO       2026-01-11 20:04:29 root                           logger                         init_logger                          23  : Init logger
+DEBUG      2026-01-11 20:04:29 settings.config                config                         print_config_job                     49  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:04:29 settings.config                config                         print_config_job                     49  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:04:29 settings.config                config                         print_config_job                     49  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:04:29 settings.config                config                         print_config_job                     49  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:04:29 settings.config                config                         print_config_job                     49  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:04:29 __main__                       main                           main                                 18  : Hello from adventure!
+INFO       2026-01-11 20:05:47 root                           logger                         init_logger                          23  : Init logger
+DEBUG      2026-01-11 20:05:47 settings.config                config                         print_config_job                     49  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:05:47 settings.config                config                         print_config_job                     49  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:05:47 settings.config                config                         print_config_job                     49  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:05:47 settings.config                config                         print_config_job                     49  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:05:47 settings.config                config                         print_config_job                     49  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:05:47 __main__                       main                           main                                 18  : Hello from adventure!
+INFO       2026-01-11 20:10:23 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:10:23 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:10:23 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:10:23 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:10:23 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:10:23 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:10:23 __main__                       main                           main                                 28  : Hello from adventure!
+INFO       2026-01-11 20:11:04 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:11:04 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:11:04 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:11:04 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:11:04 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:11:04 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:11:04 __main__                       main                           main                                 28  : Hello from adventure!
+INFO       2026-01-11 20:12:16 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:12:16 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:12:16 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:12:16 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:12:16 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:12:16 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:12:16 __main__                       main                           main                                 28  : Hello from adventure!
+INFO       2026-01-11 20:13:36 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:13:36 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:13:36 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:13:36 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:13:36 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:13:36 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:13:36 __main__                       main                           main                                 28  : Hello from adventure!
+INFO       2026-01-11 20:14:15 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:14:15 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:14:15 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:14:15 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:14:15 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:14:15 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:14:15 __main__                       main                           main                                 29  : Hello from adventure!
+INFO       2026-01-11 20:14:41 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:14:41 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:14:41 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:14:41 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:14:41 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:14:41 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:14:41 __main__                       main                           main                                 29  : Hello from adventure!
+INFO       2026-01-11 20:16:22 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:16:22 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:16:22 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:16:22 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:16:22 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:16:22 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:16:22 __main__                       main                           main                                 26  : Hello from adventure!
+INFO       2026-01-11 20:17:00 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:17:00 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:17:00 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:17:00 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:17:00 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:17:00 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:17:00 __main__                       main                           main                                 31  : Hello from adventure!
+INFO       2026-01-11 20:17:31 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:17:31 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:17:31 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:17:31 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:17:31 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:17:31 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+DEBUG      2026-01-11 20:17:31 OpenGL.platform.ctypesloader   ctypesloader                   _loadLibraryPosix                    65  : Loaded libEGL.so => libEGL.so <CDLL 'libEGL.so', handle 55890c4d6240 at 0x7f55def90ec0>
+DEBUG      2026-01-11 20:17:31 OpenGL.acceleratesupport       acceleratesupport              <module>                             20  : OpenGL_accelerate module loaded
+DEBUG      2026-01-11 20:17:31 OpenGL.arrays.arraydatatype    arraydatatype                  <module>                             334 : Using accelerated ArrayDatatype
+DEBUG      2026-01-11 20:17:31 OpenGL.platform.ctypesloader   ctypesloader                   _loadLibraryPosix                    65  : Loaded libOpenGL.so => libOpenGL.so <CDLL 'libOpenGL.so', handle 55890c500030 at 0x7f55df1da350>
+DEBUG      2026-01-11 20:17:31 OpenGL.platform.ctypesloader   ctypesloader                   _loadLibraryPosix                    65  : Loaded libglut.so => libglut.so <CDLL 'libglut.so', handle 55890c9a1190 at 0x7f55decd4e10>
+INFO       2026-01-11 20:17:31 __main__                       main                           main                                 33  : Hello from adventure!
+INFO       2026-01-11 20:17:59 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:17:59 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:17:59 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:17:59 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:17:59 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:17:59 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+DEBUG      2026-01-11 20:17:59 OpenGL.platform.ctypesloader   ctypesloader                   _loadLibraryPosix                    65  : Loaded libEGL.so => libEGL.so <CDLL 'libEGL.so', handle 565484747240 at 0x7f274f2d0ec0>
+DEBUG      2026-01-11 20:17:59 OpenGL.acceleratesupport       acceleratesupport              <module>                             20  : OpenGL_accelerate module loaded
+DEBUG      2026-01-11 20:17:59 OpenGL.arrays.arraydatatype    arraydatatype                  <module>                             334 : Using accelerated ArrayDatatype
+DEBUG      2026-01-11 20:17:59 OpenGL.platform.ctypesloader   ctypesloader                   _loadLibraryPosix                    65  : Loaded libOpenGL.so => libOpenGL.so <CDLL 'libOpenGL.so', handle 565484771030 at 0x7f274f2c2350>
+DEBUG      2026-01-11 20:17:59 OpenGL.platform.ctypesloader   ctypesloader                   _loadLibraryPosix                    65  : Loaded libglut.so => libglut.so <CDLL 'libglut.so', handle 565484c11ee0 at 0x7f274f008e10>
+INFO       2026-01-11 20:17:59 __main__                       main                           main                                 36  : Hello from adventure!
+INFO       2026-01-11 20:22:58 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:22:58 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:22:58 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:22:58 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:22:58 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:22:58 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:22:58 __main__                       main                           main                                 12  : Hello from adventure!
+INFO       2026-01-11 20:30:06 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:30:06 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:30:06 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:30:06 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:30:06 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:30:06 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:30:06 __main__                       main                           main                                 14  : Hello from adventure!
+INFO       2026-01-11 20:30:50 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:30:50 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:30:50 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:30:50 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:30:50 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:30:50 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:30:50 __main__                       main                           main                                 14  : Hello from adventure!
+INFO       2026-01-11 20:31:19 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:31:19 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:31:19 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:31:19 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:31:19 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:31:19 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:31:19 __main__                       main                           main                                 14  : Hello from adventure!
+INFO       2026-01-11 20:31:49 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:31:49 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:31:49 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:31:49 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:31:49 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:31:49 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:31:49 __main__                       main                           main                                 14  : Hello from adventure!
+INFO       2026-01-11 20:36:13 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:36:13 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:36:13 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:36:13 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:36:13 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:36:13 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:36:13 __main__                       main                           main                                 15  : Hello from adventure!
+INFO       2026-01-11 20:40:21 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 20:40:21 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 20:40:21 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 20:40:21 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 20:40:21 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 20:40:21 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 20:40:21 __main__                       main                           main                                 13  : Hello from adventure!

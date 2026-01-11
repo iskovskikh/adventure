@@ -1,0 +1,6 @@
+
+log:
+  path: ./logs
+  console_format: "%(levelname) -10s | %(asctime)s | %(message)s"
+#  console_format: "%(levelname) -10s %(asctime)s %(name) -30s %(module) -30s %(funcName) -35s %(lineno) -5d: %(message)s"
+  file_format: "%(levelname) -10s %(asctime)s %(name) -30s %(module) -30s %(funcName) -35s %(lineno) -5d: %(message)s"
