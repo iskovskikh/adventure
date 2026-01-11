@@ -162,3 +162,187 @@ DEBUG      2026-01-11 20:40:21 settings.config                config            
 DEBUG      2026-01-11 20:40:21 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
 DEBUG      2026-01-11 20:40:21 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
 INFO       2026-01-11 20:40:21 __main__                       main                           main                                 13  : Hello from adventure!
+INFO       2026-01-11 21:30:47 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 21:30:47 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 21:30:47 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 21:30:47 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 21:30:47 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 21:30:47 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 21:30:47 __main__                       main                           main                                 15  : Hello from adventure!
+INFO       2026-01-11 21:30:58 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 21:30:58 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 21:30:58 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 21:30:58 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 21:30:58 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 21:30:58 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 21:30:58 __main__                       main                           main                                 15  : Hello from adventure!
+INFO       2026-01-11 21:32:24 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 21:32:24 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 21:32:24 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 21:32:24 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 21:32:24 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 21:32:24 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 21:32:24 __main__                       main                           main                                 15  : Hello from adventure!
+INFO       2026-01-11 21:59:19 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 21:59:19 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 21:59:19 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 21:59:19 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 21:59:19 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 21:59:19 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 21:59:19 __main__                       main                           main                                 44  : Hello from adventure!
+INFO       2026-01-11 21:59:37 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 21:59:37 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 21:59:37 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 21:59:37 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 21:59:37 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 21:59:37 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 21:59:37 __main__                       main                           main                                 44  : Hello from adventure!
+WARNING    2026-01-11 21:59:37 OpenGL.plugins                 plugins                        load                                 20  : Unable to import OpenGL.arrays.numpymodule.NumpyHandler: No numpy module present: No module named 'numpy'
+INFO       2026-01-11 22:05:24 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:05:24 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:05:24 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:05:24 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:05:24 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:05:24 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:05:24 __main__                       main                           main                                 44  : Hello from adventure!
+INFO       2026-01-11 22:06:12 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:06:12 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:06:12 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:06:12 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:06:12 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:06:12 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:06:12 __main__                       main                           main                                 47  : Hello from adventure!
+INFO       2026-01-11 22:08:15 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:08:15 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:08:15 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:08:15 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:08:15 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:08:15 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:08:15 __main__                       main                           main                                 48  : Hello from adventure!
+INFO       2026-01-11 22:08:31 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:08:31 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:08:31 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:08:31 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:08:31 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:08:31 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:08:31 __main__                       main                           main                                 48  : Hello from adventure!
+INFO       2026-01-11 22:10:58 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:10:58 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:10:58 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:10:58 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:10:58 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:10:58 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:10:58 __main__                       main                           main                                 50  : Hello from adventure!
+INFO       2026-01-11 22:11:50 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:11:50 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:11:50 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:11:50 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:11:50 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:11:50 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:11:50 __main__                       main                           main                                 49  : Hello from adventure!
+INFO       2026-01-11 22:17:50 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:17:50 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:17:50 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:17:50 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:17:50 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:17:50 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:17:50 __main__                       main                           main                                 85  : Hello from adventure!
+INFO       2026-01-11 22:18:28 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:18:28 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:18:28 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:18:28 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:18:28 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:18:28 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:18:28 __main__                       main                           main                                 85  : Hello from adventure!
+INFO       2026-01-11 22:19:14 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:19:14 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:19:14 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:19:14 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:19:14 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:19:14 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:19:14 __main__                       main                           main                                 87  : Hello from adventure!
+DEBUG      2026-01-11 22:19:14 __main__                       main                           create_shader_program                64  : #version 330 core
+
+layout (location = 0) in vec3 VertexPos;
+
+out vec3 Color;
+
+void main()
+{
+    gl_Position = vec4(VertexPos.xyz, 1.0);
+    Color = vec3(0.2, 0.3, 0.7);
+}
+DEBUG      2026-01-11 22:19:14 __main__                       main                           create_shader_program                67  : #version 330 core
+
+in vec3 Color;
+
+out vec4 FragColor;
+
+void main()
+{
+    FragColor = vec4(Color, 1.0);
+}
+INFO       2026-01-11 22:20:25 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:20:25 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:20:25 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:20:25 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:20:25 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:20:25 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:20:25 __main__                       main                           main                                 93  : Hello from adventure!
+DEBUG      2026-01-11 22:20:26 __main__                       main                           create_shader_program                69  : VERTEX_SHADER='#version 330 core\n\nlayout (location = 0) in vec3 VertexPos;\n\nout vec3 Color;\n\nvoid main()\n{\n    gl_Position = vec4(VertexPos.xyz, 1.0);\n    Color = vec3(0.2, 0.3, 0.7);\n}'
+DEBUG      2026-01-11 22:20:26 __main__                       main                           create_shader_program                70  : FRAGMENT_SHADER='#version 330 core\n\nin vec3 Color;\n\nout vec4 FragColor;\n\nvoid main()\n{\n    FragColor = vec4(Color, 1.0);\n}'
+DEBUG      2026-01-11 22:20:26 __main__                       main                           create_shader_program                75  : vertex=1
+DEBUG      2026-01-11 22:20:26 __main__                       main                           create_shader_program                76  : fragment=2
+INFO       2026-01-11 22:21:04 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:21:04 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:21:04 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:21:04 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:21:04 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:21:04 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:21:04 __main__                       main                           main                                 93  : Hello from adventure!
+DEBUG      2026-01-11 22:21:04 __main__                       main                           create_shader_program                69  : VERTEX_SHADER='#version 330 core\n\nlayout (location = 0) in vec3 VertexPos;\n\nout vec3 Color;\n\nvoid main()\n{\n    gl_Position = vec4(VertexPos.xyz, 1.0);\n    Color = vec3(0.2, 0.3, 0.7)\n}'
+DEBUG      2026-01-11 22:21:04 __main__                       main                           create_shader_program                70  : FRAGMENT_SHADER='#version 330 core\n\nin vec3 Color;\n\nout vec4 FragColor;\n\nvoid main()\n{\n    FragColor = vec4(Color, 1.0);\n}'
+INFO       2026-01-11 22:21:08 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:21:08 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:21:08 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:21:08 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:21:08 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:21:08 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:21:08 __main__                       main                           main                                 93  : Hello from adventure!
+DEBUG      2026-01-11 22:21:09 __main__                       main                           create_shader_program                69  : VERTEX_SHADER='#version 330 core\n\nlayout (location = 0) in vec3 VertexPos;\n\nout vec3 Color;\n\nvoid main()\n{\n    gl_Position = vec4(VertexPos.xyz, 1.0);\n    Color = vec3(0.2, 0.3, 0.7);\n}'
+DEBUG      2026-01-11 22:21:09 __main__                       main                           create_shader_program                70  : FRAGMENT_SHADER='#version 330 core\n\nin vec3 Color;\n\nout vec4 FragColor;\n\nvoid main()\n{\n    FragColor = vec4(Color, 1.0);\n}'
+DEBUG      2026-01-11 22:21:09 __main__                       main                           create_shader_program                75  : vertex=1
+DEBUG      2026-01-11 22:21:09 __main__                       main                           create_shader_program                76  : fragment=2
+INFO       2026-01-11 22:21:42 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:21:42 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:21:42 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:21:42 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:21:42 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:21:42 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:21:42 __main__                       main                           main                                 93  : Hello from adventure!
+DEBUG      2026-01-11 22:21:42 __main__                       main                           create_shader_program                69  : VERTEX_SHADER='#version 330 core\n\nlayout (location = 0) in vec3 VertexPos;\n\nout vec3 Color;\n\nvoid main()\n{\n    gl_Position = vec4(VertexPos.xyz, 1.0);\n    Color = vec3(1.0, 1.0, 1.0);\n}'
+DEBUG      2026-01-11 22:21:42 __main__                       main                           create_shader_program                70  : FRAGMENT_SHADER='#version 330 core\n\nin vec3 Color;\n\nout vec4 FragColor;\n\nvoid main()\n{\n    FragColor = vec4(Color, 1.0);\n}'
+DEBUG      2026-01-11 22:21:42 __main__                       main                           create_shader_program                75  : vertex=1
+DEBUG      2026-01-11 22:21:42 __main__                       main                           create_shader_program                76  : fragment=2
+INFO       2026-01-11 22:25:44 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:25:44 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:25:44 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:25:44 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:25:44 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:25:44 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:25:44 __main__                       main                           main                                 56  : Hello from adventure!
+DEBUG      2026-01-11 22:25:44 __main__                       main                           create_shader_program                32  : VERTEX_SHADER='#version 330 core\n\nlayout (location = 0) in vec3 VertexPos;\n\nout vec3 Color;\n\nvoid main()\n{\n    gl_Position = vec4(VertexPos.xyz, 1.0);\n    Color = vec3(1.0, 1.0, 1.0);\n}'
+DEBUG      2026-01-11 22:25:44 __main__                       main                           create_shader_program                33  : FRAGMENT_SHADER='#version 330 core\n\nin vec3 Color;\n\nout vec4 FragColor;\n\nvoid main()\n{\n    FragColor = vec4(Color, 1.0);\n}'
+DEBUG      2026-01-11 22:25:44 __main__                       main                           create_shader_program                38  : vertex=1
+DEBUG      2026-01-11 22:25:44 __main__                       main                           create_shader_program                39  : fragment=2
+INFO       2026-01-11 22:27:49 root                           logger                         init_logger                          24  : Init logger
+DEBUG      2026-01-11 22:27:49 settings.config                config                         print_config_job                     50  : {'log': {'console_format': '%(levelname) -10s | %(asctime)s | %(message)s',
+DEBUG      2026-01-11 22:27:49 settings.config                config                         print_config_job                     50  :          'file_format': '%(levelname) -10s %(asctime)s %(name) -30s %(module) '
+DEBUG      2026-01-11 22:27:49 settings.config                config                         print_config_job                     50  :                         '-30s %(funcName) -35s %(lineno) -5d: %(message)s',
+DEBUG      2026-01-11 22:27:49 settings.config                config                         print_config_job                     50  :          'logger_config_path': PosixPath('/home/arch/scripts/adventure/config/logger_config.yaml'),
+DEBUG      2026-01-11 22:27:49 settings.config                config                         print_config_job                     50  :          'path': PosixPath('logs')}}
+INFO       2026-01-11 22:27:49 __main__                       main                           main                                 56  : Hello from adventure!
+DEBUG      2026-01-11 22:27:49 __main__                       main                           create_shader_program                32  : VERTEX_SHADER='#version 330 core\n\nlayout (location = 0) in vec3 VertexPos;\n\nout vec3 Color;\n\nvoid main()\n{\n    gl_Position = vec4(VertexPos.xyz, 1.0);\n    Color = vec3(1.0, 0.5, 0.2);\n}'
+DEBUG      2026-01-11 22:27:49 __main__                       main                           create_shader_program                33  : FRAGMENT_SHADER='#version 330 core\n\nin vec3 Color;\n\nout vec4 FragColor;\n\nvoid main()\n{\n    FragColor = vec4(Color, 1.0);\n}'
+DEBUG      2026-01-11 22:27:49 __main__                       main                           create_shader_program                38  : vertex=1
+DEBUG      2026-01-11 22:27:49 __main__                       main                           create_shader_program                39  : fragment=2
